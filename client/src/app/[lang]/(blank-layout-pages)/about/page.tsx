@@ -13,7 +13,7 @@ import { pageOpenGraph } from '@/utils/seo'
 import AboutView from '@views/front-pages/pages/AboutView'
 
 export const metadata: Metadata = {
-  title: 'About Us',
+  title: 'About Us – Business Accounting Software',
   description:
     'Learn about AccounTrack, the account management software that helps small businesses manage customers, invoices, payments and expenses in one place.',
   alternates: { canonical: '/en/about' },
