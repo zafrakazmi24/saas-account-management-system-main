@@ -13,7 +13,7 @@ import { pageOpenGraph } from '@/utils/seo'
 import FeaturesView from '@views/front-pages/pages/FeaturesView'
 
 export const metadata: Metadata = {
-  title: 'Features: Invoicing, Expenses and Reports',
+  title: 'Features: Invoice Software, Expenses & Reports',
   description:
     'Explore AccounTrack features: invoice management, payment and expense tracking, customer and supplier records, reports, dashboards and role-based team access.',
   alternates: { canonical: '/en/features' },
