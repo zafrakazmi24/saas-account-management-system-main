@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   description:
     'Learn about AccounTrack, the account management software that helps small businesses manage customers, invoices, payments and expenses in one place.',
   alternates: { canonical: '/en/about' },
-  openGraph: pageOpenGraph('About Us | AccounTrack', 'Learn about AccounTrack, the account management software that helps small businesses manage customers, invoices, payments and expenses in one place.', '/en/about')
+  openGraph: pageOpenGraph('About Us – Business Accounting Software | AccounTrack', 'Learn about AccounTrack, the account management software that helps small businesses manage customers, invoices, payments and expenses in one place.', '/en/about')
 }
 
 type Props = {
