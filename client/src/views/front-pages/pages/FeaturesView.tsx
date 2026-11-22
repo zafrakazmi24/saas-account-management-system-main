@@ -154,7 +154,7 @@ const FeaturesView = ({ lang }: { lang: Locale }) => {
     <PublicPageLayout lang={lang}>
       <PageHero
         eyebrow='Features'
-        title='Business account management features'
+        title='Invoice software and accounting features for your business'
         description='Everything a growing business needs to manage customers, invoices, payments, expenses and reports, without juggling spreadsheets or separate tools.'
       >
         <div className='flex flex-wrap justify-center gap-4 mbs-2'>
