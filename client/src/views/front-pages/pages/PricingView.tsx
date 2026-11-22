@@ -25,7 +25,7 @@ const PricingView = ({ lang }: { lang: Locale }) => {
     <PublicPageLayout lang={lang}>
       <PageHero
         eyebrow='Pricing'
-        title='Simple pricing for business account management software'
+        title='small business accounting software'
         description='Start free and upgrade only when your team grows. Compare plans below, then create your account in minutes.'
       />
 
