@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   description:
     'Explore AccounTrack features: invoice management, payment and expense tracking, customer and supplier records, reports, dashboards and role-based team access.',
   alternates: { canonical: '/en/features' },
-  openGraph: pageOpenGraph('Features: Invoicing, Expenses and Reports | AccounTrack', 'Explore AccounTrack features: invoice management, payment and expense tracking, customer and supplier records, reports, dashboards and role-based team access.', '/en/features')
+  openGraph: pageOpenGraph('Features: Invoice Software, Expenses & Reports | AccounTrack', 'Explore AccounTrack features: invoice management, payment and expense tracking, customer and supplier records, reports, dashboards and role-based team access.', '/en/features')
 }
 
 type Props = {
