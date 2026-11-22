@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Invoice management dashboard showing paid, pending and overdue invoices">
+<rect width="800" height="520" rx="24" fill="#EEEFFF"/>
+<rect x="60" y="50" width="680" height="420" rx="18" fill="#fff" stroke="#D9DBFF" stroke-width="2"/>
+<rect x="60" y="50" width="680" height="56" rx="18" fill="#666CFF"/><rect x="60" y="88" width="680" height="18" fill="#666CFF"/>
+<circle cx="92" cy="78" r="7" fill="#fff" opacity=".9"/><circle cx="116" cy="78" r="7" fill="#fff" opacity=".6"/><circle cx="140" cy="78" r="7" fill="#fff" opacity=".4"/>
+<text x="400" y="85" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">Invoices</text>
+<g font-family="Arial,sans-serif">
+<rect x="90" y="130" width="190" height="86" rx="12" fill="#F3F4FF"/><text x="108" y="160" font-size="14" fill="#6B6F8A">Paid</text><text x="108" y="196" font-size="28" font-weight="700" fill="#1F2140">$24,580</text>
+<rect x="305" y="130" width="190" height="86" rx="12" fill="#FFF6E5"/><text x="323" y="160" font-size="14" fill="#8A6B1F">Pending</text><text x="323" y="196" font-size="28" font-weight="700" fill="#1F2140">$8,140</text>
+<rect x="520" y="130" width="190" height="86" rx="12" fill="#FFECEC"/><text x="538" y="160" font-size="14" fill="#8A3B3B">Overdue</text><text x="538" y="196" font-size="28" font-weight="700" fill="#1F2140">$2,310</text>
+<text x="90" y="252" font-size="14" font-weight="700" fill="#1F2140">Recent invoices</text>
+</g>
+<g font-family="Arial,sans-serif" font-size="14" fill="#1F2140">
+<rect x="90" y="266" width="620" height="44" rx="8" fill="#F8F8FF"/><text x="108" y="294">INV-1042  ·  Northwind Traders</text><rect x="600" y="278" width="90" height="22" rx="11" fill="#D8F5EC"/><text x="645" y="294" text-anchor="middle" font-size="12" fill="#0B7A60">Paid</text>
+<rect x="90" y="318" width="620" height="44" rx="8" fill="#F8F8FF"/><text x="108" y="346">INV-1043  ·  Bluebird Supplies</text><rect x="600" y="330" width="90" height="22" rx="11" fill="#FFF0D1"/><text x="645" y="346" text-anchor="middle" font-size="12" fill="#8A6B1F">Pending</text>
+<rect x="90" y="370" width="620" height="44" rx="8" fill="#F8F8FF"/><text x="108" y="398">INV-1044  ·  Harbor Hardware</text><rect x="600" y="382" width="90" height="22" rx="11" fill="#FFE0E0"/><text x="645" y="398" text-anchor="middle" font-size="12" fill="#8A3B3B">Overdue</text>
+<rect x="90" y="422" width="620" height="30" rx="8" fill="#F8F8FF"/><text x="108" y="442">INV-1045  ·  Maple Street Cafe</text><rect x="600" y="427" width="90" height="20" rx="10" fill="#D8F5EC"/><text x="645" y="442" text-anchor="middle" font-size="12" fill="#0B7A60">Paid</text>
+</g></svg>

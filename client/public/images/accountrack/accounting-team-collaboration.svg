@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Business owner, manager, accountant and employee sharing one company workspace">
+<rect width="800" height="520" rx="24" fill="#EEEFFF"/>
+<circle cx="400" cy="260" r="92" fill="#666CFF"/><text x="400" y="252" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">Company</text><text x="400" y="280" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">Workspace</text>
+<g stroke="#B7BAFF" stroke-width="3" stroke-dasharray="6 6"><line x1="400" y1="168" x2="400" y2="100"/><line x1="492" y1="260" x2="600" y2="260"/><line x1="400" y1="352" x2="400" y2="420"/><line x1="308" y1="260" x2="200" y2="260"/></g>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<circle cx="400" cy="70" r="42" fill="#fff" stroke="#666CFF" stroke-width="3"/><circle cx="400" cy="60" r="12" fill="#4B50D6"/><path d="M378 92c4-16 40-16 44 0" fill="#4B50D6"/><text x="400" y="132" font-size="15" font-weight="700" fill="#1F2140">Owner</text>
+<circle cx="650" cy="260" r="42" fill="#fff" stroke="#666CFF" stroke-width="3"/><circle cx="650" cy="250" r="12" fill="#4B50D6"/><path d="M628 282c4-16 40-16 44 0" fill="#4B50D6"/><text x="650" y="322" font-size="15" font-weight="700" fill="#1F2140">Manager</text>
+<circle cx="400" cy="450" r="42" fill="#fff" stroke="#666CFF" stroke-width="3"/><circle cx="400" cy="440" r="12" fill="#4B50D6"/><path d="M378 472c4-16 40-16 44 0" fill="#4B50D6"/><text x="400" y="512" font-size="15" font-weight="700" fill="#1F2140">Accountant</text>
+<circle cx="150" cy="260" r="42" fill="#fff" stroke="#666CFF" stroke-width="3"/><circle cx="150" cy="250" r="12" fill="#4B50D6"/><path d="M128 282c4-16 40-16 44 0" fill="#4B50D6"/><text x="150" y="322" font-size="15" font-weight="700" fill="#1F2140">Employee</text>
+</g></svg>
