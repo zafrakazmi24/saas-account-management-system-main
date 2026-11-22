@@ -36,7 +36,7 @@ const HeroSection = ({ lang }: { lang: Locale }) => {
               variant='h1'
               className='text-[2rem] sm:text-[2.75rem] lg:text-[3.25rem] font-bold leading-[1.15]'
             >
-              Everything your business needs, all in one place
+              Account management software for small businesses
             </Typography>
 
             <Typography
