@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   description:
     'Compare AccounTrack pricing plans from Free to Premium. Start free, pay monthly or yearly and upgrade when your business and team grow.',
   alternates: { canonical: '/en/pricing' },
-  openGraph: pageOpenGraph('Pricing Plans | AccounTrack', 'Compare AccounTrack pricing plans from Free to Premium. Start free, pay monthly or yearly and upgrade when your business and team grow.', '/en/pricing')
+  openGraph: pageOpenGraph('Small Business Accounting Software Pricing | AccounTrack', 'Compare AccounTrack pricing plans from Free to Premium. Start free, pay monthly or yearly and upgrade when your business and team grow.', '/en/pricing')
 }
 
 type Props = {
