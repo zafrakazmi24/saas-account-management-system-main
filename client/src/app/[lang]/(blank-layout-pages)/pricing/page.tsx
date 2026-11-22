@@ -15,7 +15,7 @@ import JsonLd from '@views/front-pages/shared/JsonLd'
 import { pricingFaqs } from '@views/front-pages/pages/pricingFaqs'
 
 export const metadata: Metadata = {
-  title: 'Pricing Plans',
+  title: 'Small Business Accounting Software Pricing',
   description:
     'Compare AccounTrack pricing plans from Free to Premium. Start free, pay monthly or yearly and upgrade when your business and team grow.',
   alternates: { canonical: '/en/pricing' },
