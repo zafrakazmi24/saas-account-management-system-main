@@ -55,7 +55,7 @@ const AboutView = ({ lang }: { lang: Locale }) => {
     <PublicPageLayout lang={lang}>
       <PageHero
         eyebrow='About AccounTrack'
-        title='Account management software built for small businesses'
+        title='Business accounting software built for small businesses'
         description='AccounTrack brings customers, suppliers, products, invoices, payments, expenses and reports into one organized platform, so running your accounts feels simple instead of stressful.'
       />
 
