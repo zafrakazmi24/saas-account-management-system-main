@@ -13,7 +13,7 @@ import JsonLd from '@views/front-pages/shared/JsonLd'
 import { siteConfig, absoluteUrl } from '@configs/siteConfig'
 
 export const metadata: Metadata = {
-  title: { absolute: 'AccounTrack | Business Account Management Software for Invoices & Expenses' },
+  title: { absolute: 'Account Management Software for Small Business | AccounTrack' },
   description:
     'Manage customers, suppliers, invoices, payments and expenses in one simple platform. AccounTrack is account management software built for small businesses.',
   alternates: { canonical: '/en' },
